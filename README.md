@@ -8,6 +8,8 @@ Alguns dados de `tabelas Z` vão ser tratados e salvos apos a criação da _Orde
 
 Afim de evitar códigos que fiquem aguardando por tempo e fazendo demasiadas busca no banco de dados, será criada uma solução que faz uso dos recurso de chamadas de diferentes tipo de `funções` chegando uma alternativa mais **performatica e limpa** se tratando do ponto de vista de arquitetura de sistema SAP. Eu não sei como e quando foi criada a solução, mas quem me ajudou com esse assunto foi o [Murilo](mailto:murilo@abapconsulting.com.br) ~~uma das pessoas mais perfeccionistas que conheço~~ sempre buscando melhorar a qualidade do desenvolvimento.
 
+Lembrando que dependendo do que você fizer isso vai bloquear edição na Ordem de Vendas logo em seguida, ou seja, se você precisa após uma alteração atualizar alguma coisa na Ordem de Vendas por esse comando ai vai gerar bloqueio.
+
 ## Tecnologia adotada ##
 A solução consiste em criar duas funções, ambas com a mesma assinatura mas com tipos diferentes e automaticamente com chamadas diferentes. A chamada da primeira função é feita em uma exit e um processo vai desencadear outro.
 
