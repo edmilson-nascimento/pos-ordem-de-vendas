@@ -1,8 +1,8 @@
-# Simular tcode MIRO (geração de dados de NF) #
+# Pos Ordem de Vendas #
 
 [![N|Solid](https://wiki.scn.sap.com/wiki/download/attachments/1710/ABAP%20Development.png?version=1&modificationDate=1446673897000&api=v2)](https://www.sap.com/brazil/developer.html)
 
-Tratar dados para persistir apos salvar Ordem de Vendas
+Tratar dados para persistir apos salvar Ordem de Vendas.
 
 ## Necessidade ##
 Alguns dados de `tabelas Z` vão ser tratados e salvos apos a criação da _Ordem de Vendas_, ou seja, não é possível salvar as informações antes que a _Ordem_ seja salva e verificada no banco de dados.
