@@ -17,3 +17,11 @@ A solução consiste em criar duas funções, ambas com a mesma assinatura mas c
 ## Solução ##
 
 ![image](https://user-images.githubusercontent.com/22348098/151674787-7f454f5b-8332-4994-ae52-7d1d18339be8.png)
+
+![image](https://user-images.githubusercontent.com/22348098/151674810-9e565904-a98a-4994-b07e-2ffd339cf7f1.png)
+
+![image](https://user-images.githubusercontent.com/22348098/151674812-01eed82a-c767-46d6-bcff-478ff63f927c.png)
+
+![image](https://user-images.githubusercontent.com/22348098/151674825-a33e7b21-3409-462c-bc11-373ba695fcf3.png)
+
+![image](https://user-images.githubusercontent.com/22348098/151674837-b44c7a0c-43a4-460e-8672-d9cc433b1784.png)
