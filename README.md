@@ -16,6 +16,14 @@ A solução consiste em criar duas funções, ambas com a mesma assinatura mas c
 
 ## Solução ##
 
+Função 1: Deve ser chamada em UPDATE TASK
+Módulo de atualização + início retardado
+Dentro da função 1 chamar a função 2 com os mesmos parametros.
+
+Função 2: (cópia da 1) e deve ser chamada em STARTING NEW TASK
+Módulo de acesso remoto + início imediato
+Dentro da função 2 deve conter a lógica que precisa ser executada. Lembrando que nessa hora todos os dados da transação já foram gravados no BD.
+
 ![image](https://user-images.githubusercontent.com/22348098/151674787-7f454f5b-8332-4994-ae52-7d1d18339be8.png)
 
 ![image](https://user-images.githubusercontent.com/22348098/151674810-9e565904-a98a-4994-b07e-2ffd339cf7f1.png)
