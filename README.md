@@ -15,3 +15,5 @@ A solução consiste em criar duas funções, ambas com a mesma assinatura mas c
 
 
 ## Solução ##
+
+![image](https://user-images.githubusercontent.com/22348098/151674787-7f454f5b-8332-4994-ae52-7d1d18339be8.png)
