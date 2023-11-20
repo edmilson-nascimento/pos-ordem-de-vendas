@@ -1,6 +1,6 @@
 # Pos Ordem de Vendas #
 
-[![N|Solid](https://wiki.scn.sap.com/wiki/download/attachments/1710/ABAP%20Development.png?version=1&modificationDate=1446673897000&api=v2)](https://www.sap.com/brazil/developer.html)
+[![N|Solid](img/sap-dev.jpeg)](https://www.sap.com/brazil/developer.html)
 Tratar dados para persistir apos salvar Ordem de Vendas.
 
 ## Necessidade ##
