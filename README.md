@@ -1,6 +1,5 @@
 # Pos Ordem de Vendas #
 
-[![N|Solid](img/sap-dev.jpeg)](https://www.sap.com/brazil/developer.html)
 
 Tratar dados para persistir apos salvar Ordem de Vendas.
 
