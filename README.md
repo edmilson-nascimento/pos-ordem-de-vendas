@@ -4,6 +4,10 @@
 
 Tratar dados para persistir apos salvar Ordem de Vendas.
 
+![Static Badge](https://img.shields.io/badge/development-abap-blue)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/edmilson-nascimento/pos-ordem-de-vendas)
+
+
 ## Necessidade ##
 Alguns dados de `tabelas Z` vão ser tratados e salvos apos a criação da _Ordem de Vendas_, ou seja, não é possível salvar as informações antes que a _Ordem_ seja salva e verificada no banco de dados.
 
